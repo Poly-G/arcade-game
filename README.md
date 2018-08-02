@@ -1,5 +1,5 @@
 # Arcade Game
-===============================
+
 ## Game Rules
 
 ## Built With
